@@ -2,15 +2,23 @@ body {
     font-family: Arial, sans-serif;
 }
 
-.navbar {
-    background: #333;
-    color: white;
-    padding: 15px;
+.login-section {
+  width: 300px;
+  margin: 20px;
 }
 
-.card {
-    border: 1px solid #ccc;
-    padding: 15px;
-    width: 250px;
-    margin: 20px;
+.form-group {
+  margin-bottom: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+}
+
+button {
+  padding: 8px 12px;
+  background: #333;
+  color: #fff;
+  border: none;
 }
